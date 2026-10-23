@@ -1,0 +1,39 @@
+{
+ "name": "Forest Weathered",
+ "slug": "ForestWeathered",
+ "version": "0.010",
+ "bases": {
+  "lao": "lao-looped",
+  "thai": "thai-looped",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "wght": 100,
+ "wdth": 84.7,
+ "scale": 0.9624,
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 6,
+   "wave": 180
+  },
+  {
+   "op": "nib",
+   "shape": "ellipse",
+   "w": 81.0,
+   "min_hole": 1200,
+   "h": 56.7,
+   "angle": 15
+  }
+ ],
+ "fit": {
+  "sign_stem_over_height": 0.1676,
+  "sign_width_over_height": 0.8486,
+  "base_height": 565,
+  "base_stem": 25,
+  "nib_w": 81.0
+ },
+ "sidebearing": 40,
+ "baseline_snap": [],
+ "copyright": "Copyright 2026 Robert Martin Campbell. Lao key letters traced from a hand-painted sign photographed in Laos (2019); other letters derived from the Noto fonts for Lao, Thai, Khmer and Latin (Copyright 2022 The Noto Project Authors)."
+}

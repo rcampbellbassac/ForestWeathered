@@ -1,0 +1,7 @@
+{"name": "Forest Weathered", "slug": "ForestWeathered", "ink": "a", "body": "ມ",
+ "sign_text": "ໄມ້ໝາກກໍ່… / Castanea",
+ "notes": "Outdoor rustic brush lettering on green-painted wood: sweeping rounded contours, spurred terminals. Weathering is not built into the outlines (heavier smoothing fills the paint loss); a distressed version can be a separate style later.",
+ "labels": {"ໄ": [0, 1], "ມ": [2], "້": [3], "ກ": [5]},
+ "smooth": 4.5,
+ "nib": {"shape": "ellipse", "aspect": 0.7, "angle": 15},
+ "effects": [{"op": "wobble", "amp": 6, "wave": 180}]}
